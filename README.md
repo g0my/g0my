@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @g0my
-- 👀 I’m interested in computer scinces 
-- 🌱 I’m currently learning security things 
-- 💞️ I’m looking to collaborate on all project around mobiale security 
-- 📫 How to reach me call me gomy 
+- 👋 Hi, I’m @EL
+- 👀 interested in computer scinces hardware and software 
+- 🌱 currently learning fundamentals knowledge around IT
+- 💞️ open to any project 
+- 📫 How to reach me call me EL
 
 <!---
 g0my/g0my is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
